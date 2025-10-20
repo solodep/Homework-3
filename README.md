@@ -6,3 +6,5 @@
 
 - [Инструкция по работе](docs/contribution.md)
 - [Анкета для заказчика](content/questionnaire.md)
+- [План коммуникаций](content/communication-plan.md)
+- [Протокол интервью](content/requirements.md)
